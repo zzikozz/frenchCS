@@ -276,7 +276,7 @@
         "name": "WookaFR.app"
     },
     {
-        "iconUrl": "https://github.com/zzikozz/frenchCS/raw/branch/Release/fstreamzz.png",
+        "iconUrl": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/fstreamzz.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
         "fileSize": 176705,
