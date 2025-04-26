@@ -1,0 +1,78 @@
+[
+    {
+      "provider": "wiflix",
+      "link": "http://wiflix-max.cloud/"
+    },
+    {
+      "provider": "frenchstream",
+      "link": "french-stream.pink/"
+    },
+    {
+      "provider": "frenchstream_manga",
+      "link": "w14.french-manga.net/"
+    },
+    {
+      "provider": "wooka",
+      "link": "https://www.wookafr.tel/"
+    },
+    {
+      "provider": "sadisflix",
+      "link": "sadisflix.de/"
+    },
+    {
+      "provider": "gogoflix",
+      "link": "https://gogoflix.space/"
+    },
+    {
+      "provider": "senpaistream",
+      "link": "https://senpai-stream.me/"
+    },
+    {
+      "provider": "unjourunfilm",
+      "link": "1jour1film1.mom/"
+    },
+    {
+      "provider": "wooka_app",
+      "link": "https://wookafr.app/"
+    },
+    {
+      "provider": "netflix_mirror",
+      "link": "https://netfree2.cc"
+    },
+    {
+      "provider": "coflix",
+      "link": "https://coflix.mov/"
+    },
+    {
+      "provider": "katrov",
+      "link": "https://dolwiz.com"
+    },
+    {
+      "provider": "cpasmieux",
+      "link": "https://www.cpasmieux.is"
+    },
+    {
+      "provider": "dulourd",
+      "link": "https://www.dulourd.day/"
+    },
+    {
+      "provider": "cinepulse",
+      "link": "https://cinepulse.fr"
+    },
+    {
+      "provider": "1serie",
+      "link": "https://app.1seriestreaming.io"
+    },
+    {
+      "provider": "xalaflix",
+      "link": "https://xalaflix.io"
+    },
+    {
+      "provider": "nortorrent",
+      "link": "https://www.nortorrent5.com/"
+    },
+    {
+      "provider": "frembed",
+      "link": "https://frembed.ink"
+    }
+]
