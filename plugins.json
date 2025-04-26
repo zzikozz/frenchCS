@@ -19,7 +19,7 @@
         "version": 19,
         "internalName": "FrenchStreamProvider",
         "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/FrenchStreamProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FrenchStreamProvider.cs3",
         "name": "FrenchStreamProvider"
     },
     {
@@ -40,7 +40,7 @@
         "version": 10,
         "internalName": "WiflixProvider",
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/WiflixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/WiflixProvider.cs3",
         "name": "WiflixProvider"
     },
     {
@@ -59,7 +59,7 @@
         "version": 1,
         "internalName": "HDStoProvider",
         "description": "HDS.to - Film streaming, Voirfilms, Film en streaming, regarder des films en streaming gratuitement sur HDS, Voir films streaming gratuit.",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/HDStoProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/HDStoProvider.cs3",
         "name": "HDStoProvider"
     },
     {
@@ -79,7 +79,7 @@
     "version": 7,
     "internalName": "WookaFRProvider",
     "description": "WookaFR est le meilleur site de streaming gratuit. Regardez WookaFR pour voir vos films, séries, animés en illimités.",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/WookaFRProvider.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/WookaFRProvider.cs3",
     "name": "WookaFRProvider"
 },{
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://seriecenter.live&sz=128",
@@ -98,7 +98,7 @@
     "version": 2,
     "internalName": "SerieCenterProvider",
     "description": "SerieCenter est le coin des films et séries en français par excellence avec une multitude d’avantages qu’offre notre plateforme intelligente de streaming ! Que ce soit en VF ou en VOSTFR, seriecenter.live est le meilleur site qui vous permet de regarder les films et les séries en streaming gratuitement. Des séries complètes, toutes les saisons, tous les épisodes, ainsi que les nouveaux films Box-Office, sont disponibles sur notre site, classé numéro 1 dans le streaming complet des séries et des films.",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/SerieCenterProvider.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/SerieCenterProvider.cs3",
     "name": "SerieCenterProvider"
 },{
     "iconUrl": "https://www.google.com/s2/favicons?domain=dulourd.uno&sz=%size%",
@@ -116,7 +116,7 @@
     "version": 2,
     "internalName": "DuLourdProvider",
     "description": "Séries en Streaming Complete en Français Gratuitement",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/DuLourdProvider.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/DuLourdProvider.cs3",
     "name": "DuLourdProvider"
 },{
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdss.art/&sz=128",
@@ -135,7 +135,7 @@
     "version": 3,
     "internalName": "HdssProvider",
     "description": "Hdss Film Streaming - Nº1, Meilleur site pour regarder les derniers films et series en streaming VF HD, Complet et en français",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/HdssProvider.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/HdssProvider.cs3",
     "name": "HdssProvider"
 },{
     "iconUrl": "https://www.google.com/s2/favicons?domain=buzzmonclick.to/&sz=%size%",
@@ -153,7 +153,7 @@
     "version": 3,
     "internalName": "BuzzMonclickProvider",
     "description": "BuzzMonclick: Le Monde du Replay, voir et revoir vos émissions préférées.",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/BuzzMonclick.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/BuzzMonclick.cs3",
     "name": "BuzzMonclickProvider"
 },{
         "iconUrl": "https://www.google.com/s2/favicons?domain=gogoflix.pro/&sz=%size%",
@@ -172,7 +172,7 @@
         "version": 5,
         "internalName": "GogoflixProvider",
         "description": "Gogoflix : Plateforme Films & Series tv Streaming En Full HD <br> Regarder les meilleurs programmes, films streaming, séries en streaming gratuit en 1080p , 4K Sans Publicite sur notre plateforme de streaming.",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/GogoflixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/GogoflixProvider.cs3",
         "name": "GogoflixProvider"
     },{
         "iconUrl": "https://www.google.com/s2/favicons?domain=vostfree.ws&sz=%size%",
@@ -192,7 +192,7 @@
         "version": 3,
         "internalName": "VostfreeProvider",
         "description": " Ce site est certainement l\u2019un des meilleurs sites permettant de regarder des animes en ligne et gratuitement. Il vous propose la version \u00ab VF \u00bb version fran\u00e7aise et la \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/VostfreeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/VostfreeProvider.cs3",
         "name": "VostfreeProvider"
     },{
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://sadisflix.cyou&sz=128",
@@ -211,7 +211,7 @@
     "version": 5,
     "internalName": "SadisflixProvider",
     "description": "Site de Streaming 100% Gratuit et Français. Découvrez notre catalogue exclusif de Films et Séries en qualité HD. Rejoignez notre communauté pour profiter d'un divertissement illimité et d'une expérience de streaming VF et VOSTFR de qualité.",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/SadisflixProvider.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/SadisflixProvider.cs3",
     "name": "SadisflixProvider"
 },{
     "iconUrl": "https://senpai-stream.net/favicon/favicon-32x32.png",
@@ -231,7 +231,7 @@
     "version": 5,
     "internalName": "SenpaiStreamProvider",
     "description": "Senpai-Stream est une plateforme qui vous permet d'explorez du divertissement en streaming sans interruption publicitaire. Bénéficiez d'une grande sélection de films, séries, animés avec une lecture fluide et sans interruption.",
-    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/SenpaiStreamProvider.cs3",
+    "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/SenpaiStreamProvider.cs3",
     "name": "Senpai-Stream"
 },
     {
@@ -252,7 +252,7 @@
         "version": 2,
         "internalName": "UnJourUnFilmProvider",
         "description": "Sur 1JOUR1FILM , Vous pouvez retrouver sur ce site les meilleurs Films ou SeriesTV complets, gratuits, sans abonnement, en streaming vf, vo ou Vostfr",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/UnjourUnFilmProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/UnjourUnFilmProvider.cs3",
         "name": "1Jour1Film"
     },
     {
@@ -272,7 +272,7 @@
         "version": 1,
         "internalName": "WookaAPP",
         "description": "WookaFR ▷ Voir Films en Streaming HD 1080p ✔\uFE0F",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/WookaFRappProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/WookaFRappProvider.cs3",
         "name": "WookaFR.app"
     },
     {
@@ -294,7 +294,7 @@
         "version": 5,
         "internalName": "FStreamzzProvider",
         "description": "FStreamzz extension en français de cloudstream.",
-        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/FStreamzzProvider.cs3",
+        "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FStreamzzProvider.cs3",
         "name": "FStreamzz"
     }
 ]
