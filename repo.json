@@ -3,6 +3,6 @@
     "description": "zzikozz French Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/plugins.json"
+        "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/plugins.json"
     ]
 }
