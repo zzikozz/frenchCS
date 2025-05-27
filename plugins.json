@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
-        "fileSize": 39194,
+        "fileSize": 39224,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -16,7 +16,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "FrenchStreamProvider",
         "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FrenchStreamProvider.cs3",
@@ -279,7 +279,7 @@
         "iconUrl": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/fstreamzz.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
-        "fileSize": 190299,
+        "fileSize": 190300,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -291,7 +291,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "FStreamzzProvider",
         "description": "FStreamzz extension en français de cloudstream.",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FStreamzzProvider.cs3",
