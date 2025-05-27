@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
-        "fileSize": 37922,
+        "fileSize": 39031,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -16,7 +16,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "FrenchStreamProvider",
         "description": "FRENCH STREAM en plus d'\u00eatre un site efficace et plaisant dispose d'un contenu visuel diversifi\u00e9",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FrenchStreamProvider.cs3",
