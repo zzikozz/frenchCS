@@ -78,9 +78,5 @@
     {
       "provider": "frembed",
       "link": "https://frembed.site"
-    },
-    {
-      "provider": "monstream",
-      "link": "https://monstream.blue"
     }
 ]
