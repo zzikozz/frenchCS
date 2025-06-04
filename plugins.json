@@ -235,10 +235,10 @@
     "name": "Senpai-Stream"
 },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://1jour1film.yachts&sz=256",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://1jour1film22.online&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
-        "fileSize": 18648,
+        "fileSize": 52023,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -249,7 +249,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "UnJourUnFilmProvider",
         "description": "Sur 1JOUR1FILM , Vous pouvez retrouver sur ce site les meilleurs Films ou SeriesTV complets, gratuits, sans abonnement, en streaming vf, vo ou Vostfr",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/UnjourUnFilmProvider.cs3",
