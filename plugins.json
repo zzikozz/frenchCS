@@ -26,7 +26,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.al&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
-        "fileSize": 37760,
+        "fileSize": 38648,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -37,7 +37,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "WiflixProvider",
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/WiflixProvider.cs3",
