@@ -249,7 +249,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "UnJourUnFilmProvider",
         "description": "Sur 1JOUR1FILM , Vous pouvez retrouver sur ce site les meilleurs Films ou SeriesTV complets, gratuits, sans abonnement, en streaming vf, vo ou Vostfr",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/UnjourUnFilmProvider.cs3",
