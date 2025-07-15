@@ -291,7 +291,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "FStreamzzProvider",
         "description": "FStreamzz extension en français de cloudstream.",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FStreamzzProvider.cs3",
