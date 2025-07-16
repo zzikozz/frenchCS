@@ -82,5 +82,9 @@
     {
       "provider": "monstream",
       "link": "https://monstream.blue"
+    },
+    {
+      "provider": "darki",
+      "link": "https://darkiworld2025.com"
     }
 ]
