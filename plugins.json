@@ -279,7 +279,7 @@
         "iconUrl": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/fstreamzz.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/zzikozz/frenchCS",
-        "fileSize": 189464,
+        "fileSize": 185687,
         "status": 1,
         "language": "fr",
         "authors": [
@@ -291,7 +291,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "FStreamzzProvider",
         "description": "FStreamzz extension en français de cloudstream.",
         "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/FStreamzzProvider.cs3",
