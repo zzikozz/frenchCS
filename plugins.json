@@ -76,7 +76,7 @@
         "TvSeries",
         "Movie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "WookaFRProvider",
     "description": "WookaFR est le meilleur site de streaming gratuit. Regardez WookaFR pour voir vos films, séries, animés en illimités.",
     "url": "https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/builds/WookaFRProvider.cs3",
